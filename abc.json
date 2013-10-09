@@ -1,0 +1,14 @@
+{
+    "name": "Mock",
+    "version": "0.1.1",
+    "desc": "模拟请求 & 模拟数据",
+    "cover": "",
+    "tag":"模拟数据生成器, 模拟数据, 模拟请求, Simulation Data Generator",
+    "author": {
+        "name": "墨智",
+        "email": "mozhi.gyy@taobao.com",
+        "page": "https://github.com/nuysoft"
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
