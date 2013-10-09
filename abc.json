@@ -2,7 +2,7 @@
     "name": "Mock",
     "version": "0.1.1",
     "desc": "模拟请求 & 模拟数据",
-    "cover": "",
+    "cover": "http://mockjs.com/mockjs.png",
     "tag":"模拟数据生成器, 模拟数据, 模拟请求, Simulation Data Generator",
     "author": {
         "name": "墨智",
