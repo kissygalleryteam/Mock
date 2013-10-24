@@ -1,16 +1,23 @@
 ## 综述
 
-Mock是。
+Mock.js 是一款模拟数据生成器，旨在帮助前端攻城师独立于后端进行开发，帮助编写单元测试。提供了以下模拟功能：
 
+* 根据数据模板生成模拟数据
+* 模拟 Ajax 请求，生成并返回模拟数据
+* 基于 HTML 模板生成模拟数据
+
+---
 * 版本：0.1.1
 * 作者：墨智
-* 标签：
+* 标签：模拟数据生成器, 模拟数据, 模拟请求, Simulation Data Generator
 * demo：[http://gallery.kissyui.com/Mock/0.1.1/demo/index.html](http://gallery.kissyui.com/Mock/0.1.1/demo/index.html)
 
+<!-- 
 ## 初始化组件
 
     S.use('gallery/Mock/0.1.1/index', function (S, Mock) {
          var Mock = new Mock();
     })
 
-## API说明
+## API说明 
+-->
