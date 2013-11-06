@@ -888,7 +888,7 @@
     this.Mock = Mock;
     this.Random = Random;
     if (typeof KISSY != "undefined") {
-        Util.each([ "mock", "components/mock/index", "mock/dist/mock", "gallery/Mock/0.1.1/index" ], function register(name) {
+        Util.each([ "mock", "components/mock/index", "mock/dist/mock", "gallery/Mock/0.1.1/index", "gallery/Mock/0.1.2/index" ], function register(name) {
             KISSY.add(name, function(S) {
                 Mock.mockjax(S);
                 return Mock;
